@@ -1,0 +1,20 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "description": "Repository for Ortege Smart Contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TON"
+  ],
+  "author": "Ortege Pty Ltd",
+  "license": "ISC",
+  "dependencies": {
+    "@ton/core": "^0.56.3",
+    "@ton/crypto": "^3.3.0",
+    "@ton/sandbox": "^0.20.0",
+    "@ton/ton": "^14.0.0"
+  }
+}
